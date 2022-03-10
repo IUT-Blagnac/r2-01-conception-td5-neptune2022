@@ -33,6 +33,7 @@ Class affecter {
     nombreHeures
     débutMission
     finMission
+    getPayeArtisan()
 }
 
 @enduml
